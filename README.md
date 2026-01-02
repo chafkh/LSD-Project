@@ -1,0 +1,1 @@
+This paper seeks to extend the theoretical and empirical analysis of growth rate differences among economies by introducing education and human capital into the agent-based model (ABM) initially described in the Lorenz (2009) model.
